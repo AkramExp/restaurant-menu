@@ -4,3 +4,4 @@ venv
 restaurant_menu/__pycache__/
 restaurant_menu/migrations/__pycache__/
 mysite/__pycache__/
+restaurant_menu/migrations/0001_initial.py
